@@ -1,0 +1,31 @@
+{
+  "armorSetName": "gold",
+  "head": {
+    "itemKey": "minecraft:golden_helmet"
+  },
+  "chest": {
+    "itemKey": "minecraft:golden_chestplate"
+  },
+  "legs": {
+    "itemKey": "minecraft:golden_leggings"
+  },
+  "boots": {
+    "itemKey": "minecraft:golden_boots"
+  },
+  "offHand": {
+	"itemKey": "minecraft:torch"
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:regeneration",
+      "value": 0
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:strength",
+      "value": 0.0,
+      "hideBonusDescription": true
+    }
+  ]
+}
