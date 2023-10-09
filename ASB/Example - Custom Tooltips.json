@@ -1,0 +1,36 @@
+{
+  "armorSetName": "netherite",
+  "head": {
+    "itemKey": "minecraft:netherite_helmet"
+  },
+  "chest": {
+    "itemKey": "minecraft:netherite_chestplate"
+  },
+  "legs": {
+    "itemKey": "minecraft:netherite_leggings"
+  },
+  "boots": {
+    "itemKey": "minecraft:netherite_boots"
+  },
+  "hideGeneratedTooltip": true,
+  "customTooltips": [
+    "This is a custom tooltip",
+    "This tooltip will be on line 2",
+    "And this on line 3"
+  ],
+  "partialBonusRequiredAmount": 2,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:resistance",
+      "value": 0.0
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:fire_resistance",
+      "value": 0.0
+    }
+  ]
+}
