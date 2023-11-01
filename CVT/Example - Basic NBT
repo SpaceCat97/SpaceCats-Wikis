@@ -1,0 +1,23 @@
+{
+   "offer": {
+      "itemKey": "minecraft:dirt",
+      "amount": 1,
+      "priceModifier": 0,
+      "nbtTags": [
+         {
+            "nbtName": "test",
+            "data": "this is the data",
+            "dataType": "string"
+         }
+      ]
+   },
+   "request": {
+      "itemKey": "minecraft:cobblestone",
+      "amount": 1,
+      "priceModifier": 0
+   },
+   "tradeExp": 3,
+   "maxUses": 10,
+   "priceMultiplier": 0.1,
+   "tradeLevel": 1
+}
