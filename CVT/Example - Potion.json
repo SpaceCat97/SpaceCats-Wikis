@@ -1,0 +1,36 @@
+{
+   "offer": {
+      "itemKey": "minecraft:potion",
+      "amount": 1,
+      "priceModifier": 0,
+      "effects": [
+         {
+            "effectKey": "minecraft:speed",
+            "duration": 300,
+            "level": 3,
+            "isVisible": true
+         },
+         {
+            "effectKey": "random",
+            "duration": 300,
+            "level": 0,
+            "isVisible": true
+         },
+         {
+            "effectKey": "minecraft:slow_falling",
+            "duration": 100,
+            "level": 1,
+            "isVisible": true
+         }
+      ]
+   },
+   "request": {
+      "itemKey": "minecraft:emerald",
+      "amount": 3,
+      "priceModifier": 0
+   },
+   "tradeExp": 3,
+   "maxUses": 10,
+   "priceMultiplier": 0.1,
+   "tradeLevel": 1
+}
