@@ -1,0 +1,16 @@
+{
+  "offer": {
+    "itemKey": "minecraft:filled_map",
+    "customName": "Treasure Map",
+    "amount": 1,
+		"mapStructure": "minecraft:village"
+  },
+  "request": {
+    "itemKey": "minecraft:emerald",
+    "amount": 2
+  },
+  "tradeExp": 3,
+  "maxUses": 4,
+  "priceMultiplier": 0.1,
+  "tradeLevel": 1
+}
