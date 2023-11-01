@@ -1,0 +1,24 @@
+{
+  "offer": {
+    "itemKey": "minecraft:suspicious_stew",
+    "amount": 1,
+    "priceModifier": 0,
+    "effects": [
+      {
+        "effectKey": "minecraft:slow_falling",
+        "duration": 100,
+        "level": 1,
+        "isVisible": true
+      }
+    ]
+  },
+  "request": {
+    "itemKey": "minecraft:emerald",
+    "amount": 3,
+    "priceModifier": 0
+  },
+  "tradeExp": 3,
+  "maxUses": 10,
+  "priceMultiplier": 0.1,
+  "tradeLevel": 1
+}
