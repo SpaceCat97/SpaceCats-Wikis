@@ -1,0 +1,50 @@
+{
+  "profession": "armorer",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:dirt",
+        "amount": 3,
+        "enchantments": [
+          {
+            "enchantmentKey": "minecraft:knockback",
+            "enchantmentLevel": 2
+          },
+          {
+            "enchantmentKey": "minecraft:sharpness",
+            "enchantmentLevel": 1
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:cobblestone",
+        "amount": 1
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 10,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "minecraft:iron_ingot",
+        "amount": 2
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:gold_ingot",
+        "amount": 1
+      },
+      "tradeExp": 6,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 10,
+      "tradeLevel": 2
+    }
+  ]
+}
