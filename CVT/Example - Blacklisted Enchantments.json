@@ -1,0 +1,28 @@
+{
+  "offer": {
+    "itemKey": "minecraft:enchanted_book",
+    "amount": 1,
+    "priceModifier": 0,
+    "enchantments": [
+      {
+        "enchantmentKey": "random",
+        "enchantmentLevel": 2,
+        "maxEnchantmentLevel": 3
+      }
+    ],
+    "blacklistedEnchantments": [
+      "minecraft:protection",
+      "minecraft:fire_protection"
+    ]
+  },
+  "request": {
+    "itemKey": "minecraft:emerald",
+    "amount": 3,
+    "priceModifier": 0
+  },
+  "tradeExp": 3,
+  "maxUses": 10,
+  "priceMultiplier": 0.1,
+  "demand": 10,
+  "tradeLevel": 1
+}
