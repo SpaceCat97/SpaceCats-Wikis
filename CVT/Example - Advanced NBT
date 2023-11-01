@@ -1,0 +1,23 @@
+{
+  "profession": "armorer",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:spawner",
+        "amount": 1,
+        "priceModifier": 0,
+		"advancedNBTData": "{BlockEntityTag:{SpawnData:{id:\"zombie\"}}}"
+      },
+      "request": {
+        "itemKey": "minecraft:cobblestone",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "tradeLevel": 1
+    }
+  ]
+}
