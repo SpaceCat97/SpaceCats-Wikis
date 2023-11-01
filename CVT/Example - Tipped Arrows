@@ -1,0 +1,24 @@
+{
+   "offer": {
+      "itemKey": "minecraft:tipped_arrow",
+      "amount": 1,
+      "effects": [
+         {
+            "potionKey": "random",
+            "blacklistedPotionKeys": [
+               "minecraft:swiftness",
+               "minecraft:fire_resistance",
+               "minecraft:harming"
+            ]
+         }
+      ]
+   },
+   "request": {
+      "itemKey": "minecraft:emerald",
+      "amount": 2
+   },
+   "tradeExp": 3,
+   "maxUses": 4,
+   "priceMultiplier": 0.1,
+   "tradeLevel": 1
+}
