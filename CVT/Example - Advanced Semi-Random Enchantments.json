@@ -1,0 +1,34 @@
+{
+  "offer": {
+    "itemKey": "minecraft:wooden_sword",
+    "amount": 1,
+    "priceModifier": 0,
+    "semiRandomEnchantments": [
+      {
+        "enchantmentKey": "minecraft:mending",
+        "enchantmentLevel": 1,
+        "maxEnchantmentLevel": 3
+      },
+      {
+        "enchantmentKey": "minecraft:looting",
+        "enchantmentLevel": 3,
+        "maxEnchantmentLevel": 3
+      },
+      {
+        "enchantmentKey": "minecraft:sweeping",
+        "enchantmentLevel": 2,
+        "maxEnchantmentLevel": 3
+      }
+    ]
+  },
+  "request": {
+    "itemKey": "minecraft:quartz",
+    "amount": 5,
+    "priceModifier": 0
+  },
+  "tradeExp": 20,
+  "maxUses": 5,
+  "priceMultiplier": 0.0,
+  "demand": 10,
+  "tradeLevel": 4
+}
