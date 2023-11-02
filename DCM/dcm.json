@@ -1,0 +1,51 @@
+{
+  "coinConfig": {
+    "enableCoinDrops": true,
+    "onlyHostileDrops": false,
+    "conversionRate": 10,
+    "disableCopperCoin": false,
+    "disableIronCoin": false,
+    "disableGoldCoin": false,
+    "disablePlatinumCoin": false
+  },
+  "loot": {
+    "droprates": {
+      "enableHealthDroprates": false,
+      "minimumHealthDroprateMultiplier": 20,
+      "copper": 80,
+      "iron": 10,
+      "gold": 4,
+      "platinum": 1,
+      "copperDropboostHealth": 20,
+      "ironDropboostHealth": 20,
+      "goldDropboostHealth": 60,
+      "platinumDropboostHealth": 80,
+      "lootingBonusMax": 1,
+      "shouldDropRandomExtra": false,
+      "dropExtraLimit": 3
+    },
+    "dropCoinsOnPlayerDeath": true,
+    "generateChestLoot": false,
+    "chestLootLimit": 3,
+    "lootFromSpawnerEntities": false,
+    "serverAllowAutoPickup": true,
+    "autoPickup": true
+  },
+  "entities": {
+    "whitelistedDimensions": [],
+    "includedEntities": [
+      "minecraft:enderdragon",
+      "minecraft:slime",
+      "minecraft:shulker"
+    ],
+    "blacklistedEntities": [
+      "minecraft:zombie"
+    ]
+  },
+  "gui": {
+    "walletEnabled": true,
+    "walletGuiX": 97,
+    "walletGuiY": 103,
+    "walletMaxSlotSize": 999
+  }
+}
