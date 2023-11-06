@@ -125,7 +125,7 @@
             "amount":5
          },
          "tradeExp":3,
-         "maxUses":0,
+         "maxUses":7,
          "priceMultiplier":0.0,
          "demand":0,
          "tradeLevel":3
