@@ -1,0 +1,36 @@
+{
+	"tooltip.translation.spacecatasb.settitleprefix": "Part of the",
+	"tooltip.translation.spacecatasb.settitlesuffix": "set",
+	"tooltip.translation.spacecatasb.partialsetbonusesprefix": "Partial set bonuses (",
+	"tooltip.translation.spacecatasb.partialsetbonusessuffix": "):",
+	"tooltip.translation.spacecatasb.fullsetbonusestitle": "Full set bonuses",
+	"tooltip.translation.spacecatasb.invaliddescription": "INVALID DESCRIPTION! Contact mod author (ArmorSetBonuses)",
+	"tooltip.translation.spacecatasb.interactiontype.self": "self",
+	"tooltip.translation.spacecatasb.interactiontype.attack": "attack",
+	"tooltip.translation.spacecatasb.interactiontype.interact": "interact",
+	"tooltip.translation.spacecatasb.interactiontype.immunity": "immunity",
+	"tooltip.translation.spacecatasb.interactiontype.aoe": "aoe",
+	"tooltip.translation.spacecatasb.conditions.when": "when",
+	"tooltip.translation.spacecatasb.conditions.and": "and",
+	"tooltip.translation.spacecatasb.conditions.description.inbiome": "in biome",
+	"tooltip.translation.spacecatasb.conditions.description.inlava": "in lava",
+	"tooltip.translation.spacecatasb.conditions.description.inrain": "in rain",
+	"tooltip.translation.spacecatasb.conditions.description.inwater": "in water",
+	"tooltip.translation.spacecatasb.conditions.description.onblock": "on",
+	"tooltip.translation.spacecatasb.conditions.description.isusingmainhand": "using set mainhand equipment",
+	"tooltip.translation.spacecatasb.conditions.description.isusingoffhand": "using set offhand equipment",
+	"tooltip.translation.spacecatasb.holdkeysdetails": "Hold SHIFT+CTRL for more details",
+	"tooltip.translation.spacecatasb.slot.emptyhead": "empty head slot",
+	"tooltip.translation.spacecatasb.slot.emptychest": "empty chest slot",
+	"tooltip.translation.spacecatasb.slot.emptylegs": "empty legs slot",
+	"tooltip.translation.spacecatasb.slot.emptyfeet": "empty feet slot",
+	"tooltip.translation.spacecatasb.slot.emptymainhand": "empty main hand slot",
+	"tooltip.translation.spacecatasb.slot.emptyoffhand": "empty offhand slot",
+	"tooltip.translation.spacecatasb.slot.mainhand": "Main Hand",
+	"tooltip.translation.spacecatasb.slot.offhand": "Offhand",
+	"tooltip.translation.spacecatasb.slot.emptyerror": "ERROR",
+	"tooltip.translation.spacecatasb.enchantment.no": "NO"
+	
+	
+	
+}
