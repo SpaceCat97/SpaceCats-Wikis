@@ -1,24 +1,35 @@
 {
-   "offer": {
-      "itemKey": "minecraft:tipped_arrow",
-      "amount": 1,
-      "effects": [
+   "offer":{
+      "itemKey":"minecraft:tipped_arrow",
+      "amount":1,
+      "customColourR":0,
+      "customColourG":255,
+      "customColourB":0,
+      "effects":[
          {
-            "potionKey": "random",
-            "blacklistedPotionKeys": [
-               "minecraft:swiftness",
-               "minecraft:fire_resistance",
-               "minecraft:harming"
-            ]
+            "effectKey":"minecraft:haste",
+            "duration":400,
+            "level":1
+         },
+         {
+            "effectKey":"random",
+            "duration":400,
+            "level":2
          }
+      ],
+      "blacklistedEffects":[
+         "minecraft:swiftness",
+         "minecraft:fire_resistance",
+         "minecraft:harming"
       ]
    },
-   "request": {
-      "itemKey": "minecraft:emerald",
-      "amount": 2
+   "request":{
+      "itemKey":"minecraft:emerald",
+      "amount":10
    },
-   "tradeExp": 3,
-   "maxUses": 4,
-   "priceMultiplier": 0.1,
-   "tradeLevel": 1
+   "tradeExp":3,
+   "maxUses":4,
+   "priceMultiplier":0.1,
+   "demand":0,
+   "tradeLevel":1
 }
