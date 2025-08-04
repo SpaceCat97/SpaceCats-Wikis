@@ -1,5 +1,5 @@
 {
-  "profession": "armorer",
+  "profession": "minecraft:armorer",
   "removeOtherTrades": true,
   "trades": [
     {
