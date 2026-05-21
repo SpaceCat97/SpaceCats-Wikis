@@ -1,22 +1,22 @@
 {
-  "offer": {
-    "itemKey": "minecraft:iron_helmet",
-    "amount": 1,
-    "enchantments": [
-      {
-        "enchantmentKey": "random",
-        "minEnchantmentLevel": 2,
-        "maxEnchantmentLevel": 2
-      }
-    ]
-  },
-  "request": {
-    "itemKey": "minecraft:emerald",
-    "amount": 5
-  },
-  "tradeExp": 3,
-  "maxUses": 10,
-  "priceMultiplier": 0.1,
-  "demand": 10,
-  "tradeLevel": 1
-}
+      "offer": {
+        "itemKey": "minecraft:iron_helmet",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": ["random"],
+            "maxEnchantmentLevel": 2
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "minecraft:emerald",
+        "amount": 5
+      },
+      "tradeExp": 3,
+      "maxUses": 6,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_random_ench"
+    },
