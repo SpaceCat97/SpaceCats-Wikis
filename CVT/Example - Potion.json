@@ -1,6 +1,7 @@
 {
    "offer": {
       "itemKey": "minecraft:potion",
+      "name": "Potion of Jericho",
       "amount": 1,
       "priceModifier": 0,
       "effects": [
