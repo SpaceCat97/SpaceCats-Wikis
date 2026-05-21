@@ -1,0 +1,19 @@
+
+    {
+      "offer": {
+        "itemKey": "minecraft:spawner",
+        "amount": 1,
+        "priceModifier": 0,
+        "advancedNBTData": "{BlockEntityTag:{id:\"minecraft:mob_spawner\",SpawnData:{entity:{id:\"minecraft:zombie\"}}}}"
+      },
+      "request": {
+        "itemKey": "minecraft:cobblestone",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "tradeLevel": 1,
+      "UTID": "minecraft:armorer_adv_nbt"
+    },
