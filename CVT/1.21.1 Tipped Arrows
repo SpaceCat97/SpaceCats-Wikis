@@ -1,0 +1,37 @@
+{
+      "offer":{
+        "itemKey":"minecraft:tipped_arrow",
+        "name": "Arrow of Poison and More",
+        "amount":1,
+        "customColourR":0,
+        "customColourG":255,
+        "customColourB":0,
+        "effects":[
+          {
+            "effectKey":"minecraft:poison",
+            "duration":400,
+            "level":1
+          },
+          {
+            "effectKey":"random",
+            "duration":400,
+            "level":2
+          }
+        ],
+        "blacklistedEffects":[
+          "minecraft:swiftness",
+          "minecraft:fire_resistance",
+          "minecraft:healing"
+        ]
+      },
+      "request":{
+        "itemKey":"minecraft:emerald",
+        "amount":10
+      },
+      "tradeExp":3,
+      "maxUses":4,
+      "priceMultiplier":0.1,
+      "demand":0,
+      "tradeLevel":1,
+      "UTID": "minecraft:librarian_tipped_arrow_for_emerald"
+    }
